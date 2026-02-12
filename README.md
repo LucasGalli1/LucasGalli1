@@ -6,7 +6,7 @@ Brazil | Engineering Physics | LIBS Spectroscopy | Machine Learning
 
 **Research areas:** Laser-Induced Breakdown Spectroscopy (LIBS), molecular emission spectroscopy, chemometrics, and machine learning for analytical chemistry applications.
 
-I am an Engineering Physics researcher focused on **Laser-Induced Breakdown Spectroscopy (LIBS)**, spectral data analysis, and data-driven methods for agricultural and analytical chemistry applications.
+Engineering Physics researcher working on **Laser-Induced Breakdown Spectroscopy (LIBS)**, spectral data analysis, and data-driven methods for agricultural and analytical chemistry applications.
 
 My current work focuses on developing reliable and reproducible **machine learning and deep learning workflows** for scientific spectroscopy.
 
@@ -40,7 +40,7 @@ My current work focuses on developing reliable and reproducible **machine learni
 - Halogen quantification via molecular LIBS (CaX emissions)
 - Sulfur quantification via CS molecular emissions
 
-### Machine Learning Applications
+### Machine Learning for Spectroscopy
 
 - LIBS-based maize genotype classification
 - LIBS-based soybean genotype and infestation classification
@@ -58,9 +58,11 @@ My current work focuses on developing reliable and reproducible **machine learni
 
 - **Programming:** Python
 - **Scientific Computing:** NumPy, SciPy, Pandas
+- **Data visualization:** Matplotlib, Plotly
 - **Machine Learning:** Scikit-learn, PyTorch
 - **Methods:** PCA, PLS-DA, classification pipelines
 - **Domain Expertise:** LIBS instrumentation, plasma diagnostics, molecular emission analysis
+- **Scientific writing:** LaTeX
 
 ---
 
@@ -72,7 +74,7 @@ Core priorities:
 
 - Reproducibility and robust validation
 - Scalable preprocessing and model training
-- Scientific interpretability of model outputs
+- Scientific interpretability and explainable machine learning
 
 <!--      ---
 
