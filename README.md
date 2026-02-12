@@ -1,9 +1,19 @@
 # Lucas L. Galli
 
-Engineering Physics | Spectroscopy | Machine Learning | Deep Learning
+**Engineering Physics | LIBS Spectroscopy | Machine Learning**
 
-I am an Engineering Physics researcher working with **Laser-Induced Breakdown Spectroscopy (LIBS)**, spectral data analysis, and machine learning applied to agricultural and analytical chemistry problems.  
-Currently focusing on expanding my expertise toward **Deep Learning applied to spectroscopic data and scientific analysis**.
+I am an Engineering Physics researcher focused on **Laser-Induced Breakdown Spectroscopy (LIBS)**, spectral data analysis, and data-driven methods for agricultural and analytical chemistry applications.
+
+My current work is centered on building reliable and reproducible **machine learning and deep learning workflows** for scientific spectroscopy.
+
+---
+
+## About Me
+
+- Background in Engineering Physics with a focus on spectroscopy and data analysis
+- Research experience in LIBS fundamentals, molecular emissions, and plasma behavior
+- Practical application of ML methods to real-world agricultural datasets
+- Strong interest in bridging experimental spectroscopy and modern deep learning
 
 ---
 
@@ -11,42 +21,49 @@ Currently focusing on expanding my expertise toward **Deep Learning applied to s
 
 - Laser-Induced Breakdown Spectroscopy (LIBS)
 - Molecular LIBS and plasma diagnostics
-- Spectral data processing and chemometrics
+- Chemometrics and spectral preprocessing
 - Machine Learning for spectroscopy
-- Deep Learning for scientific data analysis
+- Deep Learning for scientific data
 - Agricultural and environmental applications
 
 ---
 
-## Featured Projects
+## Selected Project Topics
 
 ### LIBS Physics and Molecular Spectroscopy
-- Matrix Effects in LIBS Analysis  
-- Molecular LIBS Halogen Quantification (CaX emissions)  
-- Sulfur Quantification using CS Molecular Emissions  
+
+- Matrix effects in LIBS analysis
+- Halogen quantification via molecular LIBS (CaX emissions)
+- Sulfur quantification via CS molecular emissions
 
 ### Machine Learning Applications
-- LIBS-Based Maize Genotype Classification  
-- LIBS-Based Soybean Genotype and Infestation Classification  
+
+- LIBS-based maize genotype classification
+- LIBS-based soybean genotype and infestation classification
 
 ---
 
-## Technical Skills
+## Technical Stack
 
-**Programming:** Python (NumPy, SciPy, Pandas, Scikit-Learn, PyTorch)  
-**Data Analysis:** Spectral preprocessing, chemometrics, multivariate analysis  
-**Machine Learning:** PCA, PLS-DA, classification models  
-**Spectroscopy:** LIBS instrumentation, plasma diagnostics, molecular emission analysis  
+- **Programming:** Python
+- **Scientific Computing:** NumPy, SciPy, Pandas
+- **Machine Learning:** Scikit-learn, PyTorch
+- **Methods:** PCA, PLS-DA, classification pipelines
+- **Domain Expertise:** LIBS instrumentation, plasma diagnostics, molecular emission analysis
 
 ---
 
 ## Current Focus
 
-Developing advanced **machine learning and deep learning pipelines** for spectroscopic data analysis, aiming at scalable and reproducible scientific workflows.
+I am developing advanced **ML/DL pipelines for spectroscopic data** with emphasis on:
 
-<!-- ---
+- Reproducibility and robust validation
+- Scalable preprocessing and model training
+- Scientific interpretability of model outputs
+
+---
 
 ## Contact
 
-- LinkedIn: (add later)
-- Email: (add later)
+- LinkedIn: *(add link)*
+- Email: *(add email)*
