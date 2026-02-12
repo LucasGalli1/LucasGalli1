@@ -44,9 +44,9 @@ Currently focusing on expanding my expertise toward **Deep Learning applied to s
 
 Developing advanced **machine learning and deep learning pipelines** for spectroscopic data analysis, aiming at scalable and reproducible scientific workflows.
 
----
+<!-- ---
 
-<!--## Contact
+## Contact
 
 - LinkedIn: (add later)
 - Email: (add later)
