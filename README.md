@@ -1,10 +1,14 @@
 # Lucas L. Galli
 
-**Engineering Physics | LIBS Spectroscopy | Machine Learning**
+Brazil | Engineering Physics | LIBS Spectroscopy | Machine Learning
+
+**Engineering Physics Researcher working at the intersection of LIBS spectroscopy, chemometrics, and machine learning**
+
+**Research areas:** Laser-Induced Breakdown Spectroscopy (LIBS), molecular emission spectroscopy, chemometrics, and machine learning for analytical chemistry applications.
 
 I am an Engineering Physics researcher focused on **Laser-Induced Breakdown Spectroscopy (LIBS)**, spectral data analysis, and data-driven methods for agricultural and analytical chemistry applications.
 
-My current work is centered on building reliable and reproducible **machine learning and deep learning workflows** for scientific spectroscopy.
+My current work focuses on developing reliable and reproducible **machine learning and deep learning workflows** for scientific spectroscopy.
 
 ---
 
@@ -43,6 +47,13 @@ My current work is centered on building reliable and reproducible **machine lear
 
 ---
 
+## Publications and Outputs
+
+- Paper accepted in *Spectrochimica Acta Part B* (2026): Sulfur quantification by LIBS using CS molecular emissions in synthetic and plant-based samples under atmospheric conditions *[(Doi)](https://doi.org/10.1016/j.sab.2025.107427)*
+- Embrapa research internship: LIBS applications in agricultural analysis
+
+---
+
 ## Technical Stack
 
 - **Programming:** Python
@@ -55,13 +66,15 @@ My current work is centered on building reliable and reproducible **machine lear
 
 ## Current Focus
 
-I am developing advanced **ML/DL pipelines for spectroscopic data** with emphasis on:
+I am currently developing reproducible machine learning and deep learning pipelines for spectroscopic data analysis, focusing on experimental robustness, cross-validated modeling strategies, and interpretable models for analytical chemistry applications.
+
+Core priorities:
 
 - Reproducibility and robust validation
 - Scalable preprocessing and model training
 - Scientific interpretability of model outputs
 
----
+<!--      ---
 
 ## Contact
 
